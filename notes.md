@@ -1,0 +1,2 @@
+- run on local server (type `servez`)
+- tutorial found at https://www.youtube.com/watch?v=8jP4xpga6yY (Traversy Media)
